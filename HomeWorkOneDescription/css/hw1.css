@@ -1,0 +1,27 @@
+header{
+	background-color:#4D5656;
+	
+
+}
+a{
+	color:#666666;
+	background-color:#ffffff;
+}
+nav{
+	font-variant:small-caps;
+	font-family: Arial,"Times New Roman",Serif;
+	font-size: 110%;
+	display: inline-block;
+
+}
+h1,h2{
+	color:#ffffff ;
+	font-variant: small-caps;
+	text-align:center;
+}
+img{
+	display:none;
+}
+section{
+	background-color:#34495E  ;
+}
